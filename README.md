@@ -1,4 +1,4 @@
-# FG_DQR
+# DQR4FG
 
 #### From point estimates to probabilistic maps: A deep quantile regression framework for uncertainty-informed fisheries management
 
